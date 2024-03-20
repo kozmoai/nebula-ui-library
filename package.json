@@ -63,14 +63,14 @@
     },
     "peerDependencies": {
         "@kozmoai/nebula-design": "^2.6.2",
-        "@prefecthq/vue-charts": "^2.0.3",
+        "@kozmoai/vue-charts": "^2.0.3",
         "@prefecthq/vue-compositions": "^1.10.0",
         "vee-validate": "^4.7.0",
         "vue": "^3.4.4",
         "vue-router": "^4.0.12"
     },
     "dependencies": {
-        "@prefecthq/graphs": "2.2.14",
+        "@kozmoai/graphs": "2.2.14",
         "axios": "1.6.7",
         "cronstrue": "^2.48.0",
         "d3": "7.9.0",
