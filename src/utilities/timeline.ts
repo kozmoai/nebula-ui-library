@@ -1,6 +1,6 @@
 // Temporarily removed while we fix v2 of graphs
 
-// import { TimelineData, TimelineItem } from '@prefecthq/graphs'
+// import { TimelineData, TimelineItem } from '@kozmoai/graphs'
 // import { FlowRunGraphResponse } from '@/models/api/FlowRunGraphResponse'
 // import { mapper } from '@/services/Mapper'
 

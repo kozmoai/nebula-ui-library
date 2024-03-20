@@ -13,7 +13,7 @@
 </template>
 
 <script lang="ts" setup>
-  import { NodeSelection } from '@prefecthq/graphs'
+  import { NodeSelection } from '@kozmoai/graphs'
   import { FlowRunTimelineTaskDetails, FlowRunTimelineSubFlowRunDetails } from '@/components'
 
   defineProps<{

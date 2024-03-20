@@ -16,7 +16,7 @@
 </template>
 
 <script lang="ts" setup>
-  import { ArtifactsSelection } from '@prefecthq/graphs'
+  import { ArtifactsSelection } from '@kozmoai/graphs'
   import { FlowRunGraphPopover, FlowRunGraphArtifactCard } from '@/components'
 
   defineProps<{

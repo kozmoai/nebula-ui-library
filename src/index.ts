@@ -1,4 +1,4 @@
-import '@prefecthq/graphs/dist/style.css'
+import '@kozmoai/graphs/dist/style.css'
 
 export * from './components'
 export * from './compositions'

@@ -1,4 +1,4 @@
-import { RunGraphEdge, RunGraphNodeKind, StateType } from '@prefecthq/graphs'
+import { RunGraphEdge, RunGraphNodeKind, StateType } from '@kozmoai/graphs'
 import { ServerStateType } from '@/models/StateType'
 
 export type RunGraphDataResponse = {

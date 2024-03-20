@@ -1,4 +1,4 @@
-import { RunGraphData } from '@prefecthq/graphs'
+import { RunGraphData } from '@kozmoai/graphs'
 import { StateUpdate, SchemaResponse } from '@/models'
 import { FlowRunHistoryResponse } from '@/models/api/FlowRunHistoryResponse'
 import { FlowRunResponse } from '@/models/api/FlowRunResponse'

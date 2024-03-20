@@ -5,7 +5,7 @@ import {
   EventsSelection as RunGraphEventsSelection,
   RunGraphEvent,
   RunGraphFetchEventsOptions
-} from '@prefecthq/graphs'
+} from '@kozmoai/graphs'
 
 export type {
   RunGraphItemSelection,

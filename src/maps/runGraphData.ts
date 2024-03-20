@@ -1,4 +1,4 @@
-import { RunGraphData, RunGraphNode, RunGraphArtifact, RunGraphStateEvent } from '@prefecthq/graphs'
+import { RunGraphData, RunGraphNode, RunGraphArtifact, RunGraphStateEvent } from '@kozmoai/graphs'
 import { RunGraphDataResponse, RunGraphNodeResponse, RunGraphArtifactResponse, RunGraphStateResponse } from '@/models/api/RunGraphDataResponse'
 import { MapFunction } from '@/services/Mapper'
 import { isKnownArtifactType } from '@/types/artifact'

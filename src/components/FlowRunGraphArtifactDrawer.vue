@@ -44,7 +44,7 @@
 </template>
 
 <script lang="ts" setup>
-  import { GraphItemSelection, isArtifactSelection } from '@prefecthq/graphs'
+  import { GraphItemSelection, isArtifactSelection } from '@kozmoai/graphs'
   import { computed } from 'vue'
   import { ArtifactDataView, ArtifactDescription, ArtifactKeyIconText } from '@/components'
   import { useArtifact, useTaskRun, useWorkspaceRoutes } from '@/compositions'

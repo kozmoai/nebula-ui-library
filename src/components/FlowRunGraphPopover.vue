@@ -13,7 +13,7 @@
 </template>
 
 <script lang="ts" setup>
-  import { GraphSelectionPosition } from '@prefecthq/graphs'
+  import { GraphSelectionPosition } from '@kozmoai/graphs'
   import { PPopOver, positions } from '@kozmoai/nebula-design'
   import { StyleValue, computed, onMounted, ref } from 'vue'
 

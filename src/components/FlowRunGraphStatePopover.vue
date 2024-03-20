@@ -20,7 +20,7 @@
 </template>
 
 <script lang="ts" setup>
-  import { StateSelection } from '@prefecthq/graphs'
+  import { StateSelection } from '@kozmoai/graphs'
   import { FlowRunGraphPopover } from '@/components'
   import { formatDateTimeNumeric } from '@/utilities'
 
