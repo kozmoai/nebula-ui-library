@@ -1,6 +1,6 @@
 {
     "name": "@kozmoai/nebula-ui-library",
-    "version": "2.6.42",
+    "version": "2.6.6",
     "private": false,
     "repository": {
         "type": "git",
@@ -62,16 +62,15 @@
         "vue-tsc": "2.0.6"
     },
     "peerDependencies": {
-        "@kozmoai/nebula-design": "^2.6.2",
-        "@kozmoai/vue-charts": "^2.0.3",
-        "@prefecthq/vue-compositions": "^1.10.0",
+        "@kozmoai/nebula-design": "^2.6.4",
+        "@kozmoai/vue-charts": "^2.0.4",
+        "@prefecthq/vue-compositions": "^1.11.0",
         "vee-validate": "^4.7.0",
         "vue": "^3.4.4",
         "vue-router": "^4.0.12"
     },
     "dependencies": {
         "@kozmoai/graphs": "2.2.14",
-        "@kozmoai/nebula-ui-library": "2.6.42",
         "axios": "1.6.7",
         "cronstrue": "^2.48.0",
         "d3": "7.9.0",
