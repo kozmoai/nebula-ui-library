@@ -71,6 +71,7 @@
     },
     "dependencies": {
         "@kozmoai/graphs": "2.2.14",
+        "@kozmoai/nebula-ui-library": "2.6.42",
         "axios": "1.6.7",
         "cronstrue": "^2.48.0",
         "d3": "7.9.0",
