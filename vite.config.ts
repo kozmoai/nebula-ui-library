@@ -23,7 +23,7 @@ export default {
     sourcemap: true,
     lib: {
       entry: resolve(__dirname, 'src/index.ts'),
-      name: 'prefect-ui-library',
+      name: 'nebula-ui-library',
     },
     rollupOptions: {
       external: [

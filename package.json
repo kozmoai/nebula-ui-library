@@ -24,12 +24,12 @@
         "validate:types": "vue-tsc --noEmit",
         "version": "npm run changelog && git add CHANGELOG.md"
     },
-    "main": "./dist/prefect-ui-library.umd.js",
-    "module": "./dist/prefect-ui-library.mjs",
+    "main": "./dist/nebula-ui-library.umd.js",
+    "module": "./dist/nebula-ui-library.mjs",
     "exports": {
         ".": {
-            "import": "./dist/prefect-ui-library.mjs",
-            "require": "./dist/prefect-ui-library.umd.js"
+            "import": "./dist/nebula-ui-library.mjs",
+            "require": "./dist/nebula-ui-library.umd.js"
         },
         "./dist/style.css": "./dist/style.css"
     },

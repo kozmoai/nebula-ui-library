@@ -2,7 +2,7 @@ import { useLocalStorage } from '@prefecthq/vue-compositions'
 import { ComputedRef, computed } from 'vue'
 import { getCacheKey, SavedSearchFilter, systemDefaultSavedSearch, isSameFilter } from '..'
 
-const customDefaultFlowRunsFilterKey = getCacheKey('prefect-ui-library-custom-default-flow-runs-filter')
+const customDefaultFlowRunsFilterKey = getCacheKey('nebula-ui-library-custom-default-flow-runs-filter')
 
 type UseDefaultSavedSearchFilter = {
   value: ComputedRef<SavedSearchFilter>,

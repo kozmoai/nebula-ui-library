@@ -8,7 +8,7 @@ type UseLogsSort = {
   sort: Ref<LogSortValues>,
 }
 
-const logsSortStorageKey = getCacheKey('prefect-ui-library-default-logs-sort')
+const logsSortStorageKey = getCacheKey('nebula-ui-library-default-logs-sort')
 
 export function useLogsSort(defaultValue: LogSortValues = 'TIMESTAMP_ASC'): UseLogsSort {
   const { value: cache, set } = useLocalStorage<string>(logsSortStorageKey)
