@@ -19,7 +19,7 @@
 
 <script lang="ts" setup>
   import { isDefined } from '@kozmoai/nebula-design'
-  import { LineChart, LineChartData } from '@prefecthq/vue-charts'
+  import { LineChart, LineChartData } from '@kozmoai/vue-charts'
   import merge from 'lodash.merge'
   import { computed, toRef } from 'vue'
   import StatisticKeyValue from '@/components/StatisticKeyValue.vue'

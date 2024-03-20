@@ -25,7 +25,7 @@
 </template>
 
 <script lang="ts" setup>
-  import { DivergingBarChart } from '@prefecthq/vue-charts'
+  import { DivergingBarChart } from '@kozmoai/vue-charts'
   import { computed } from 'vue'
   import { RunHistory, StateType } from '@/models'
   import { mapper } from '@/services'

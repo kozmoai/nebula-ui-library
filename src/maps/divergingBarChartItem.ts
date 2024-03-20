@@ -1,4 +1,4 @@
-import { DivergingBarChartData, DivergingBarChartItem } from '@prefecthq/vue-charts'
+import { DivergingBarChartData, DivergingBarChartItem } from '@kozmoai/vue-charts'
 import { RunHistory } from '@/models/RunHistory'
 import { MapFunction } from '@/services/Mapper'
 

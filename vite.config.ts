@@ -32,7 +32,7 @@ export default {
         'vee-validate',
         '@prefecthq/vue-compositions',
         '@kozmoai/nebula-design',
-        '@prefecthq/vue-charts',
+        '@kozmoai/vue-charts',
       ],
       output: {
         exports: 'named',

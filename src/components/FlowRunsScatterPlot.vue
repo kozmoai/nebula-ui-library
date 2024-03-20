@@ -9,7 +9,7 @@
 </template>
 
 <script lang="ts" setup>
-  import { ScatterPlot } from '@prefecthq/vue-charts'
+  import { ScatterPlot } from '@kozmoai/vue-charts'
   import { computed } from 'vue'
   import FlowRunPopOver from '@/components/FlowRunPopOver.vue'
   import { UiFlowRunHistory } from '@/models/UiFlowRunHistory'
